@@ -1,0 +1,38 @@
+.carousel-inner .carousel-item {
+    height: 100vh; }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover; }
+  
+  .carousel-caption {
+    left: 50%;
+    top: 50%;
+    right: auto;
+    bottom: auto;
+    padding-top: 0;
+    padding-bottom: 0; }
+  
+  .card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover; }
+  
+  .card-body h4 {
+    color: white; }
+  
+  .columns .card {
+    background-color: #eff2f5;
+    border: none; }
+  
+  .columns {
+    background-color: #eff2f5; }
+  
+  .fa-brands {
+    position: flex;
+    flex: 1;
+    font-size: 16px; }
+  
+  .footer {
+    background-color: #ced6e0; }
+  
